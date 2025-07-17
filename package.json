@@ -1,0 +1,12 @@
+{
+  "name": "travel-pdf-converter",
+  "version": "1.0.0",
+  "description": "Конвертер HTML в PDF для подборки путешествий",
+  "main": "convert_to_pdf.js",
+  "scripts": {
+    "convert": "node convert_to_pdf.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+} 
